@@ -43,6 +43,6 @@ while counter < source_array.size do
   counter += 1
   
 end
-return true 
+return false 
 end
 
