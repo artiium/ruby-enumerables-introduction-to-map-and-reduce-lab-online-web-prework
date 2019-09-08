@@ -32,7 +32,7 @@ while counter < source_array.size do
   counter += 1
   
 end
-returns true 
+return true 
 end
 
 
